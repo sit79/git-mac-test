@@ -1,1 +1,1 @@
-This file will contain personal reports.
+This file will contain personal reports not otherwise accessible in the file system.
